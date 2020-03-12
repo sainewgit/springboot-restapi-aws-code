@@ -7,7 +7,7 @@
 	<groupId>com.in28minutes.springboot.web</groupId>
 	<artifactId>03-spring-boot-web-application-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<description>Demo project for Spring Boot</description>
 
